@@ -33,6 +33,6 @@ university-website-ui/
 ## Installation et exécution
 1. Cloner le repository
 ```bash
-git clone https://github.com/AhmedBenAmmar/university-website-ui.git
+git clone https://github.com/ahmedbenammar462-commits/university-website-ui.git
 npm install
 npm run dev
